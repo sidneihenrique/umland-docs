@@ -1,6 +1,6 @@
 ---
 name: PBI (PBI)
-description: Template para organizar requisitos funcionais (RF) e não funcionais (RNF) como PBIs.
+about: Template para organizar requisitos funcionais (RF) e não funcionais (RNF) como PBIs.
 title: "[PBI] RF-01 – Cadastro de novo usuário"
 labels: [pbi, RF]
 assignees: []
