@@ -1,6 +1,6 @@
 ---
 name: Documento (TCC)
-description: Template para controle e acompanhamento de entregas documentais do TCC.
+about: Template para controle e acompanhamento de entregas documentais do TCC.
 title: "[DOC] Nome da entrega – Ex: TDE IV – Vídeo Execução Planning Poker"
 labels: [documentação, entrega, TCC]
 assignees: []

@@ -1,6 +1,6 @@
 ---
 name: Sub-Issue de Documento
-description: Subtarefa associada a uma entrega documental do TCC.
+about: Subtarefa associada a uma entrega documental do TCC.
 title: "[SUB] Nome da subtarefa – Ex: Gravar vídeo da reunião"
 labels: [subtarefa, TCC, documentação]
 assignees: []
